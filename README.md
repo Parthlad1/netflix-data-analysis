@@ -119,7 +119,7 @@ An interactive **Tableau dashboard** was created for deeper analysis, featuring:
 - Release Trends  
 - Top Genres & Directors  
 
-👉 *[Add your Tableau Public link here once available]*  
+👉 *https://lnkd.in/esSqr6Ya*  
 
 ---
 
