@@ -1,6 +1,5 @@
 # 🎬 Netflix Data Analysis  
 **Prepared by:** Parth Lad  
-**Company:** Unified Mentor  
 
 ---
 
